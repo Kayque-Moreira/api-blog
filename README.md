@@ -40,7 +40,7 @@ Certifique-se de ter o **Python 3** instalado em seu sistema.
 
 1.  Clone este repositório:
     ```bash
-    git clone [SEU_LINK_DO_REPOSITORIO]
+    git clone [(https://github.com/Kayque-Moreira/api-blog.git)]
     cd [pasta_do_projeto]
     ```
 
@@ -96,7 +96,3 @@ O projeto inclui um arquivo para criar o banco de dados e um usuário administra
 ## 🤝 Contribuições (Se aplicável no futuro)
 
 Este é um projeto de portfólio inicial. Sugestões de melhorias ou correções de bugs são bem-vindas.
-
-## ⭐️ Licença (Opcional, mas recomendado)
-
-Este projeto está licenciado sob a Licença MIT.
