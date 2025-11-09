@@ -1,0 +1,2 @@
+python banco_de_dados.py
+web: gunicorn app:app
